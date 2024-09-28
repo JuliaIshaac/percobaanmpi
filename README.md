@@ -1,0 +1,2 @@
+# percobaanmpi
+masih percobaan
